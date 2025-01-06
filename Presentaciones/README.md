@@ -30,4 +30,4 @@ Cada charla es adaptada al nivel de experiencia del público, desde principiante
 hola@purpl3.cat
 
 ## License
-N/A
+Algunas de estas presentaciones tienen derechos de propiedad individual, algunas son hechas para organizaciones sin fines de lucro. Algunas son material independiente. El detalle se encuentra dentro del README de cada presentación.
