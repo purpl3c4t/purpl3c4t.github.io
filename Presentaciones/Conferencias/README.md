@@ -19,9 +19,17 @@ Estas charlas están dirigidas a:
 ## Events
 He presentado estas charlas en eventos clave, incluyendo:
 
-- Taller avanzado: Estrategias de evasión para profesionales de infosec (noviembre 2024).
-- Sesiones corporativas: Promoción de buenas prácticas en ciberseguridad para empresas globales.
-- Conferencias académicas: Introducción a técnicas ofensivas y defensivas en universidades y talleres.
+- Webinars de ESET Latinoamércia
+- Tercer Foro de Ciberseguridad e Inteligencia Artificial CANACINTRA 2024
+- 112 Aniversario FIEE-UNI, Lima
+- Pumahat Cybersecurity Week
+- IT MastersCON CDMX
+- ESET Security Days 2024
+- Simposio de Seguridad ANTAD 2024
+- Coloquio de Ciberseguridad CIC CiSeg LAB
+- Infosecurity México 2024
+- Posadev 2024
+- Programming Week SAP 2024
 
 ## Comments
 Cada charla es adaptada al nivel de experiencia del público, desde principiantes hasta expertos en ciberseguridad. Las sesiones incluyen ejemplos prácticos, reflexiones éticas y discusiones interactivas que fomentan el aprendizaje activo.
