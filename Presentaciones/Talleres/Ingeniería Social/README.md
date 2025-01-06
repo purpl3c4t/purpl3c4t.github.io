@@ -27,7 +27,8 @@ Este taller condensado permite a los participantes obtener una experiencia prác
 
 
 ## Comments
-This talk was designed for a 400-level Computer Science class called _Cybersecurity and Professional Practices_. I was invited to speak on the topic of Professional Ethics and Practices. I was told the students were eager for a sense of what working in a company is really like.
+_Duración: 120 minutos dividido en 2 períodos de 1 hora y un intermedio de 10
+minutos_
 
 ## Contact
 Duración: 120 minutos dividido en 2 períodos de 1 hora y un intermedio de 10
