@@ -29,7 +29,7 @@ Estas presentaciones estuvieron dirigidas a:
 _Las presentaciones combinaron perspectivas técnicas y prácticas para ofrecer soluciones reales a los retos actuales en ciberseguridad._
 
 ## Contact
-Para más información sobre nuestras iniciativas o para solicitar una presentación, puedes contactarnos a info.latam (at) eset (dot) com.
+Para más información sobre nuestras iniciativas o para solicitar una presentación, puedes contactarnos a cybersoc@eset-la.com.
 
 ## License
 Este trabajo está licenciado bajo los términos de uso de contenido de ESET Latinoamérica. Para más detalles, consulta nuestro sitio web oficial: www.eset-la.com.
