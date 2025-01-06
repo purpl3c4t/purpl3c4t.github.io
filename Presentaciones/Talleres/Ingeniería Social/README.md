@@ -1,5 +1,5 @@
 # Presentation Title
-Ingeniería Social 101 
+**Ingeniería Social 101**
 
 ## Description
 Este workshop de 2 horas de nivel intermedio está diseñado para estudiantes de seguridad que buscan profundizar en las técnicas de ingeniería social. A lo largo de 2 horas, se abordarán tácticas avanzadas para engañar y manipular en un entorno de prueba, abarcando desde la creación de escenarios hasta la ejecución de ataques simulados. Los participantes aprenderán cómo diseñar y llevar a cabo campañas de ingeniería social efectivas.
