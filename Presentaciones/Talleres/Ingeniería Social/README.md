@@ -31,8 +31,7 @@ _Duración: 120 minutos dividido en 2 períodos de 1 hora y un intermedio de 10
 minutos_
 
 ## Contact
-Duración: 120 minutos dividido en 2 períodos de 1 hora y un intermedio de 10
-minutos
+Hola@purpl3.cat
 
 ## License
 N/A
