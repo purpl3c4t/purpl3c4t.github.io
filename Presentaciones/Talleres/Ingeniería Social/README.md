@@ -18,7 +18,7 @@ Linux, ya sea virtual o host nativo.
 - **Name**: CybersecurityWeek PUMAHAT, UNAM
 - **Date**: Septiembre 2024
 - **Location**: Ciudad Universitaria, CDMX
-- - **Name**: SAP Programming Week UANL 
+- **Name**: SAP Programming Week UANL 
 - **Date**: Octubre 2024
 - **Location**: Monterrey
 
